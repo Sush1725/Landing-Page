@@ -277,6 +277,8 @@ ul {
     padding-top: 6rem;
     padding-left: 1rem;
     padding-right: 1rem;
+    width:30%;
+
 
 }
 
@@ -547,6 +549,9 @@ footer {
 
         padding-bottom: 6rem;
     }
+     .testimonial{
+        width:90%;
+      }
 
 
 
